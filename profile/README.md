@@ -15,7 +15,7 @@
 
 ## Quem somos
 
-A **Filka Studio** é um estúdio técnico fundado em 2022. Reunimos engenharia e design digital para ajudar empresas a tomar decisões melhores com dados e construir uma presença digital mais forte — com um time pequeno, técnico e direto ao ponto.
+A **Filka Studio** é um estúdio técnico fundado em 2022. Reunimos engenharia e design digital para ajudar empresas a tomar decisões melhores com dados e construir uma presença digital mais forte com um time pequeno, técnico e direto ao ponto.
 
 ## O que fazemos
 
@@ -41,8 +41,8 @@ A **Filka Studio** é um estúdio técnico fundado em 2022. Reunimos engenharia 
 
 | Repositório | Descrição |
 |---|---|
-| [`repo-1`](#) | _adicione aqui um repo em destaque_ |
-| [`repo-2`](#) | _adicione aqui um repo em destaque_ |
+| [`repo-1`](#) | _adicionar_ |
+| [`repo-2`](#) | _adicionar_ |
 
 ## Contato
 
