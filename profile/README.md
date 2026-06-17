@@ -19,13 +19,13 @@ A **Filka Studio** é um estúdio técnico fundado em 2022. Reunimos engenharia 
 
 ## O que fazemos
 
-**Dados & IA** — plataformas analíticas, automação e inteligência aplicada ao negócio
+**Dados & IA**, plataformas analíticas, automação e inteligência aplicada ao negócio
 - Diagnóstico e arquitetura de dados
 - Genie / AI BI no Databricks
 - Automação de processos com Python
 - Desenvolvimento Salesforce (Apex, LWC, Flows)
 
-**Digital & Marca** — presença digital sob a mesma régua técnica
+**Digital & Marca**, presença digital sob a mesma régua técnica
 - Landing pages e sites institucionais
 - Identidade visual e branding
 
